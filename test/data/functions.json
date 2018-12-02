@@ -1,0 +1,1 @@
+{"hello":{"handler":"src/appts/handler.hello"},"hello2":{"handler":"src/appts/handler.hello","package":{"individually":true,"include":["src/**"],"exclude":["**"]}}}
