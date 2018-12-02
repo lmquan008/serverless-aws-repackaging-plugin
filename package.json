@@ -1,0 +1,31 @@
+{
+  "name": "serverless-aws-repackaging-plugin",
+  "version": "1.0.0",
+  "description": "Repackaging code for lambda \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D aws lambda",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmquan008/serverless-aws-repackaging-plugin.git"
+  },
+  "keywords": [
+    "serverless",
+    "package",
+    "aws",
+    "lambda"
+  ],
+  "engines": {
+    "node": ">=8.0"
+  },
+  "author": "Quan Le",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmquan008/serverless-aws-repackaging-plugin/issues"
+  },
+  "homepage": "https://github.com/lmquan008/serverless-aws-repackaging-plugin#readme",
+  "dependencies": {
+    "archiver": "^3.0.0"
+  }
+}
